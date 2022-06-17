@@ -11,7 +11,6 @@ npm run serve
 ```
 
 ### Compiles and minifies for production
-### Compiles and minifies for production
 ```
 npm run build
 ```
@@ -23,5 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vue-Sph-Front-Project
 # Vue-Sph-Front-Project
